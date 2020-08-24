@@ -30,8 +30,8 @@ input[type=checkbox] {
 }
 
 .container {
-	background-color: #2f0235;
-	box-shadow: 0px 2px 10px rgba(29, 162, 224, 0.2);
+	background-color: #3e0346;
+	box-shadow: 0px 2px 10px rgba(21, 83, 175, 0.2);
 	padding: 20px;
 	width: 350px;
 	max-width: 100%;
@@ -39,6 +39,7 @@ input[type=checkbox] {
 
 .result-container {
 	background-color: rgba(0, 0, 0, 0.4);
+	box-shadow: 0px 2px 10px rgba(182, 224, 84, 0.2);
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
@@ -65,12 +66,13 @@ input[type=checkbox] {
 }
 
 .btn {
-	border: none;
+	border: white;
 	color: #fff;
 	cursor: pointer;
 	font-size: 16px;
 	padding: 8px 12px;
-	background-color:#001F61 ;
+	background-color: rgba(0, 0, 0, 0.4) ;
+	box-shadow: 0px 2px 10px rgba(182, 224, 84, 0.2);
 }
 
 .btn-large {
