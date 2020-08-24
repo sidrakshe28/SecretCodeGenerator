@@ -30,15 +30,15 @@ input[type=checkbox] {
 }
 
 .container {
-	background-color: #410549;
-	box-shadow: 0px 2px 10px rgba(39, 140, 187, 0.2);
+	background-color: #2f0235;
+	box-shadow: 0px 2px 10px rgba(29, 162, 224, 0.2);
 	padding: 20px;
 	width: 350px;
 	max-width: 100%;
 }
 
 .result-container {
-	background-color: rgba(94, 17, 17, 0.4);
+	background-color: rgba(102, 31, 10, 0.4);
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
@@ -70,7 +70,7 @@ input[type=checkbox] {
 	cursor: pointer;
 	font-size: 16px;
 	padding: 8px 12px;
-	background-color: #3B3B98;
+	background-color:#001F61 ;
 }
 
 .btn-large {
