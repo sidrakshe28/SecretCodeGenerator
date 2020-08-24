@@ -95,7 +95,7 @@ input[type=checkbox] {
 
 
 .social-panel-container {
-	position: absolute;
+	position: relative;
 	right: 0;
 	bottom: 80px;
 	transform: translateX(100%);
