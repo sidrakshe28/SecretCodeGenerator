@@ -38,7 +38,7 @@ input[type=checkbox] {
 }
 
 .result-container {
-	background-color: rgba(209, 102, 69, 0.4);
+	background-color: rgba(233, 222, 72, 0.4);
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
